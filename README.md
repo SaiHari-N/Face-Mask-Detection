@@ -5,16 +5,16 @@ Neural Network Algorithm to detect people wearing face masks and take actions ac
 
 # Installation
 
-note : this project works better on Ubuntu 20.04 TLS
+Note : this project works better on Ubuntu 20.04 TLS
 
 Step 0
 
-open terminal, navigate to the project folder, and type :
+Open terminal, navigate to the project folder, and type :
 ~~~ 
 pip3 install -r requirements.txt
 ~~~
 
-go and grub a cup of coffee as this will take some time.
+Go and grub a cup of coffee as this will take some time.
 
 Step 1
 
